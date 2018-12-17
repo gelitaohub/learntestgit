@@ -9,3 +9,4 @@ Creating a new branch is quick
 qwert
 12234
 Creating a new branch is quick and simple.
+add merge
